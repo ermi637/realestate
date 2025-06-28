@@ -311,7 +311,7 @@ export default function HomePage() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=400&width=600&text=Real+Estate+Office&bg=f8fafc&color=1e293b"
+                src="/aboutus.jpeg?height=400&width=600&text=Real+Estate+Office&bg=f8fafc&color=1e293b"
                 alt="Real Estate Office"
                 width={600}
                 height={400}
@@ -371,25 +371,25 @@ export default function HomePage() {
                 title: "Property Buying",
                 desc: "Find your dream home or investment property",
                 icon: Home,
-                image: "/placeholder.svg?height=200&width=300&text=Property+Buying&bg=dbeafe&color=1e40af",
+                image: "/villa1.jpg?height=200&width=300&text=Property+Buying&bg=dbeafe&color=1e40af",
               },
               {
                 title: "Property Selling",
                 desc: "Get the best value for your property",
                 icon: Award,
-                image: "/placeholder.svg?height=200&width=300&text=Property+Selling&bg=dcfce7&color=166534",
+                image: "/villa2.jpeg?height=200&width=300&text=Property+Selling&bg=dcfce7&color=166534",
               },
               {
                 title: "Rental Services",
                 desc: "Rent out or find rental properties",
                 icon: MapPin,
-                image: "/placeholder.svg?height=200&width=300&text=Rental+Services&bg=fef3c7&color=92400e",
+                image: "/villa5.jpg?height=200&width=300&text=Rental+Services&bg=fef3c7&color=92400e",
               },
               {
                 title: "Plot Investment",
                 desc: "Invest in residential and commercial plots",
                 icon: Shield,
-                image: "/placeholder.svg?height=200&width=300&text=Plot+Investment&bg=fce7f3&color=be185d",
+                image: "/villa4.jpeg?height=200&width=300&text=Plot+Investment&bg=fce7f3&color=be185d",
               },
             ].map((service, index) => (
               <Card key={index} className="hover:shadow-lg transition-shadow overflow-hidden">

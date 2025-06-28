@@ -62,7 +62,7 @@ export default function HomePage() {
       beds: 5,
       baths: 4,
       area: "500 sq yd",
-      image: "/placeholder.svg?height=300&width=400&text=Luxury+Villa+DHA",
+      image: "/villa1.jpg?height=300&width=400&text=Luxury+Villa+DHA",
     },
     {
       id: 2,
@@ -72,7 +72,7 @@ export default function HomePage() {
       beds: 3,
       baths: 2,
       area: "1200 sq ft",
-      image: "/placeholder.svg?height=300&width=400&text=Modern+Apartment+Clifton",
+      image: "/villa2.jpeg?height=300&width=400&text=Modern+Apartment+Clifton",
     },
     {
       id: 3,
@@ -82,7 +82,7 @@ export default function HomePage() {
       beds: 4,
       baths: 3,
       area: "240 sq yd",
-      image: "/placeholder.svg?height=300&width=400&text=Family+House+Gulshan",
+      image: "/villa3.jpeg?height=300&width=400&text=Family+House+Gulshan",
     },
     {
       id: 4,
@@ -92,7 +92,7 @@ export default function HomePage() {
       beds: 0,
       baths: 0,
       area: "120 sq yd",
-      image: "/placeholder.svg?height=300&width=400&text=Residential+Plot+DHA",
+      image: "/villa4.jpeg?height=300&width=400&text=Residential+Plot+DHA",
     },
     {
       id: 5,
@@ -102,7 +102,7 @@ export default function HomePage() {
       beds: 0,
       baths: 2,
       area: "2000 sq ft",
-      image: "/placeholder.svg?height=300&width=400&text=Commercial+Building+Shahrah",
+      image: "/villa5.jpg?height=300&width=400&text=Commercial+Building+Shahrah",
     },
     {
       id: 6,
@@ -112,7 +112,7 @@ export default function HomePage() {
       beds: 4,
       baths: 5,
       area: "3000 sq ft",
-      image: "/placeholder.svg?height=300&width=400&text=Luxury+Penthouse+Defence",
+      image: "/villa6.jpg?height=300&width=400&text=Luxury+Penthouse+Defence",
     },
     {
       id: 7,
@@ -122,7 +122,7 @@ export default function HomePage() {
       beds: 3,
       baths: 3,
       area: "200 sq yd",
-      image: "/placeholder.svg?height=300&width=400&text=Modern+Townhouse+Bahria",
+      image: "/villa7.jpeg?height=300&width=400&text=Modern+Townhouse+Bahria",
     },
   ]
 
@@ -204,7 +204,7 @@ export default function HomePage() {
         {/* Background Image Overlay */}
         <div className="absolute inset-0 opacity-20">
           <Image
-            src="/placeholder.svg?height=800&width=1200&text=Karachi+Skyline&bg=1e40af&color=ffffff"
+            src="/aboutus.jpeg?height=800&width=1200&text=Karachi+Skyline&bg=1e40af&color=ffffff"
             alt="Karachi Skyline"
             fill
             className="object-cover"

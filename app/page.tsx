@@ -131,7 +131,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen">
       {/* Header */}
-      <header className="bg-gradient-to-r from-blue-600 to-blue-500 sticky top-0 z-50">
+      <header className="bg-gradient-to-r from-red-600 to-red-500 sticky top-0 z-50">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             {/* Logo */}

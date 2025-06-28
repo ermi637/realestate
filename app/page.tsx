@@ -137,7 +137,7 @@ export default function HomePage() {
             {/* Logo */}
             <div className="flex items-center gap-3">
               <Image
-                src="/placeholder.svg?height=40&width=40&text=RE&bg=ffffff&color=2563eb"
+                src="/download.png?height=40&width=40&text=RE&bg=ffffff&color=2563eb"
                 alt="Real Estate Logo"
                 width={40}
                 height={40}
@@ -717,7 +717,7 @@ export default function HomePage() {
             <div>
               <div className="flex items-center gap-3 mb-4">
                 <Image
-                  src="/placeholder.svg?height=32&width=32&text=RE&bg=ffffff&color=2563eb"
+                  src="/download.png?height=32&width=32&text=RE&bg=ffffff&color=2563eb"
                   alt="Real Estate Logo"
                   width={32}
                   height={32}

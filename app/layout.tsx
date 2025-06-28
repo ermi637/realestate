@@ -26,7 +26,7 @@ export const metadata: Metadata = {
   },
 
   icons: {
-    icon: '/download.png, 
+    icon: '/download.png', 
   },
 
   openGraph: {

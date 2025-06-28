@@ -499,7 +499,7 @@ export default function HomePage() {
               {
                 name: "Ch Talha",
                 role: "Founder & CEO",
-                image: "/mypic.jpg?height=300&width=300&text=Ch+Talha&bg=dbeafe&color=1e40af",
+                image: "/zahid.jpg?height=300&width=300&text=Ch+Talha&bg=dbeafe&color=1e40af",
                 experience: "15+ Years Experience",
               },
               {

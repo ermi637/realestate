@@ -499,19 +499,19 @@ export default function HomePage() {
               {
                 name: "Ch Talha",
                 role: "Founder & CEO",
-                image: "/placeholder.svg?height=300&width=300&text=Ch+Talha&bg=dbeafe&color=1e40af",
+                image: "/mypic.jpg?height=300&width=300&text=Ch+Talha&bg=dbeafe&color=1e40af",
                 experience: "15+ Years Experience",
               },
               {
                 name: "Anjum Khan",
                 role: "Senior Property Consultant",
-                image: "/placeholder.svg?height=300&width=300&text=Anjum+Khan&bg=dcfce7&color=166534",
+                image: "/anjum.jpeg?height=300&width=300&text=Anjum+Khan&bg=dcfce7&color=166534",
                 experience: "12+ Years Experience",
               },
               {
                 name: "Zahid Ali",
                 role: "Investment Specialist",
-                image: "/placeholder.svg?height=300&width=300&text=Zahid+Ali&bg=fef3c7&color=92400e",
+                image: "/zahid.jpg?height=300&width=300&text=Zahid+Ali&bg=fef3c7&color=92400e",
                 experience: "10+ Years Experience",
               },
             ].map((member, index) => (
